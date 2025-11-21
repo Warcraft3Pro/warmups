@@ -12,8 +12,10 @@ def hello():
     :return: None
     """
     ### YOUR CODE GOES HERE ###
-
+    name = input('What is your name?\n')
+    print('Hello' name)
 
 ### YOU SHOULD NOT NEED TO CHANGE ANYTHING HERE ###
 if __name__ == '__main__':
+
     hello()
