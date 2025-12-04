@@ -15,10 +15,12 @@ def circle_calculator():
     :return: None
     """
     ### YOUR CODE GOES HERE ###
-    
-
+radius = input('What is the vircumference of your circle?\n')
+print("Your area is" 3.14*radius**2)
+print("Your circumference is" 2*3.14*radius)
 
 ### YOU SHOULD NOT NEED TO CHANGE ANYTHING HERE ###
 if __name__ == '__main__':
 
     circle_calculator()
+
