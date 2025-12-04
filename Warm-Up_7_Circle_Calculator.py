@@ -1,7 +1,7 @@
 """
 Filename: Warm-Up_7_Circle_Calculator.py
-Author: <Lastname, Firstname>
-Created: <MM/DD/YYYY>
+Author: <Daniels, Elias>
+Created: <12/04/2025>
 Instructor: Holtslander
 """
 
@@ -20,4 +20,5 @@ def circle_calculator():
 
 ### YOU SHOULD NOT NEED TO CHANGE ANYTHING HERE ###
 if __name__ == '__main__':
+
     circle_calculator()
